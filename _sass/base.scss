@@ -5,7 +5,7 @@
 @import "rouge-base16-dark";
 @import "default_colors";
 
-$body-background: $cod-grey !default;
+$body-background: $repperium-grey !default;
 $body-foreground: $gallery !default;
 $header: $repperium-green !default;
 $blockquote-color: $silver-chalice !default;
@@ -14,7 +14,7 @@ $blockquote-border: $dove-grey !default;
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../assets/bkg.png") 0 0;
+  background: $body-background 0 0;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
