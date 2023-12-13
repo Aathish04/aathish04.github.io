@@ -7,6 +7,8 @@ author:
 
 baseurl: ""
 
+exclude: ["compose.yaml","Gemfile","Gemfile.lock"]
+
 source: .
 destination: ./_site
 permalink: /:title
