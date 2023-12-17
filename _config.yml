@@ -10,7 +10,13 @@ include:
 
 baseurl: ""
 
-exclude: ["compose.yaml","Gemfile","Gemfile.lock"]
+exclude: [
+  "_config.yml",
+  ".gitignore",
+  "compose.yaml",
+  "Gemfile",
+  "Gemfile.lock",
+  ]
 
 source: .
 destination: ./_site
