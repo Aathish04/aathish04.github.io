@@ -5,6 +5,9 @@ author:
   email: "aathish04@gmail.com"
   url: "https://aathish04.github.io/"
 
+include:
+  - _pages
+
 baseurl: ""
 
 exclude: ["compose.yaml","Gemfile","Gemfile.lock"]

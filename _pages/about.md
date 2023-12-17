@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about
 ---
 
 # Hi, I'm Aathish.
@@ -15,4 +16,4 @@ Like I mentioned in [my very first Hello World Post]({% post_url 2023-12-13-Hell
 
 I used to write over at [Repperium](https://repperiumsci.blogspot.com), and by that I mean I had literally two articles, and I think I'll enjoy the more markdown oriented editing of Jekyll and Github Pages over the WYSIWYG editor used by Blogspot.
 
-Have an interesting idea you think I should have a look at? You can find my contact information on the contact page [here]({% link contact.md %}).
+Have an interesting idea you think I should have a look at? You can find my contact information on the contact page [here]({% link _pages/contact.md %}).

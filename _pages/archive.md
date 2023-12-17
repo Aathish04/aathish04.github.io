@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Library
+permalink: /archive
 ---
 
 <section>
