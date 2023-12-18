@@ -25,12 +25,12 @@ paginate: 3
 paginate_path: /page/:num/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      permalink: /posts/:title
 
 future: true
 plugins:
