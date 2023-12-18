@@ -63,6 +63,7 @@ Now, let's proceed by downloading and copying over the Oracle Enterprise 19c bin
 
 > If you're on another Architecture (most probably AMD64), get the ZIP file for Oracle 19c for Linux.
 > It will probably be named something like `LINUX.AMD64_1919000_db_home.zip`
+> 
 > In the commands detailed after this, replace any instance of ARM64 with AMD64 :)
 
 Once the downloaded file is in the appropriate directory, we move into the appropriate `dockerfiles` directory and run the shell script `buildContainerImage.sh` that Oracle so helpfully provided:
