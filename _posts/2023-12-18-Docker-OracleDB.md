@@ -202,6 +202,6 @@ I _struggled_ to install Oracle onto my laptop when I was studying for exams dur
 
 I did learn *quite* a bit about Docker, Oracle, and Virtualisation while trying to get this all to work, and there's no such thing as too much knowledge IMHO.
 
-If you found [the linked github repository](https://github.com/Aathish04/oracle19c_sample_docker){:target="_blank"} for this project useful, please feel free to star it on Github. In the same vein, if you found this blog post useful, feel free to star [its Github repository as well](https://github.com/Aathish04/aathish04.github.io){:target="_blank"}.
+If you found [the linked github repository](https://github.com/Aathish04/oracle19c_sample_docker){:target="_blank"} for this project useful, please feel free to star it on Github. In the same vein, if you found this blog post useful, feel free to star [its Github repository as well](https://github.com/Aathish04/aathishsarchive){:target="_blank"}.
 
 # _Fin_
